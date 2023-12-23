@@ -1,0 +1,4 @@
+_id,username,password,role,employee_id
+6586300b273fa1cd5d86fbb1,clerk,1234,clerk,1
+6586358de3eda714757b5d28,manager,1234,manager,2
+65863635e3eda714757b5d29,delivery,1234,delivery,3

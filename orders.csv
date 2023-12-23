@@ -1,0 +1,4 @@
+_id,description,order_date,total_amount,clerk_id,customer_id,completed,order_id
+6586314c9b2ae5b5ea58e097,latte,2023-12-23,2,1,2,True,1
+65863452f5c7db2b1216bb32,black,2023-12-23,1,1,2,True,2
+6586353e5bf61548a51c2bc6,Capuccino,2023-12-23,2,1,100,False,3
